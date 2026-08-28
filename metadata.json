@@ -1,0 +1,6 @@
+{
+  "name": "LedgerTrack - Business Accounting & Financial Analytics",
+  "description": "Real-time business tracking, expense management, double-entry bookkeeping, general ledgers, financial statements, and automated AI financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
